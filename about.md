@@ -10,4 +10,4 @@ I'm a data scientist with a background in marketing and advertising.  Having wor
 
 Big data & machine learning techniques allows for a greater level of insight, allowing us to make sense of complex real-world situations.  Hopefully this can be used for the betterment of the world, rather than creating our own dystopian future where we need to bow down to our robotic overlords.
 
-### Feel free to add and contact me on LinkedIn below
+#### Feel get in touch via. LinkedIn in the link below
