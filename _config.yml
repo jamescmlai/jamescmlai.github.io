@@ -60,7 +60,6 @@ version: v1.2.0
 
 theme: jekyll-theme-minimal
 
-gem "github-pages", group: :jekyll_plugins
 
 # Jekyll 3 now only supports Kramdown for Markdown
 kramdown:
