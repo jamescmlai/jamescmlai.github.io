@@ -6,7 +6,7 @@
 name: James Lai
 
 # Short bio or description (displayed in the header)
-description: Data Scientist
+description: Data Scientist - curious marketing and advertising specialist.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars2.githubusercontent.com/u/30426598?s=400&u=9e6565f4f17bde7ab05cbf597c69b43834b76530&v=4
@@ -23,10 +23,10 @@ footer-links:
   flickr:
   github: jamescmlai.github.io
   instagram:
-  linkedin:
+  linkedin: linkedin.com/in/jamescmlai
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
@@ -37,7 +37,7 @@ footer-links:
 disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
+google_analytics: 
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
