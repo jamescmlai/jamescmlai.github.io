@@ -18,14 +18,14 @@ The notebooks attached contains the process for capturing this in two seperate p
 #### 1. DNS lookup
 A quick DNS search was conducted first to separate live and expired sites to expedite the actual web scraping process.  The code in this notebook also captured the e-commerce platform based on client requirements.
 
-Click [here](https://github.com/jamescmlai/github_portfolio/blob/master/webscraping/DNS_lookup.ipynb) to see this notebook.
+Click [here](https://github.com/jamescmlai/webscraping/blob/master/DNS_lookup.ipynb) to see this notebook.
 
 #### 2. Web scraper 
 Utilises Requests and Beautiful Soup to iterate through the customer list of websites and capture the HTML text for further analysis down the line.
 - working through just shy of 30,000 sites and with inconsistent internet speed (thanks Australian NBN), the code automatically saves a csv file after every 200 websites scraped.
 - this notebook was copied and run in parallel to expedite the process.
 
-Click [here](https://github.com/jamescmlai/github_portfolio/blob/master/webscraping/Web_scraper.ipynb) to see this notebook.
+Click [here](https://github.com/jamescmlai/webscraping/blob/master/Web_scraper.ipynb) to see this notebook.
 
 After running these notebooks for a couple of hours, this captured a couple GB of HTML string data - you can be more efficient in only capturing interesting parts of the text, but the entirety of the text was captured in this instance.
 
