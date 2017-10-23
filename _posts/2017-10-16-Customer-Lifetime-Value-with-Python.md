@@ -31,12 +31,11 @@ Combining their historical transaction data alongside other customer information
 
 ![_config.yml]({{ site.baseurl }}/images/CLV_total.png)
 
-From these graphs it could be seen that while the majority of their customer base is from Shopify, the value of their customers is fairly platform agnostic. 
+From these graphs it could be seen that while the majority of their customer base is from Shopify, the value of their customers is fairly platform agnostic - meaning they could expect a similar CLV from BigCommerce or Wix customers as well.
+WooCommerce is shown to have a high relative CLV per customer, while this is off a small customer base it represents a potential pool of new valuable customers that could be more eagerly tapped into.
+Conversely, email and affiliate marketing activity has not been particularly fruitful from either attracting valuable customers or a volume base
 
-Form this we could ascertain:
-WooCommerce has a fairly high CLV, albeit off a small customer base it offers and potential source of valuable customers which would be worth looking further into.
-Email and affiliate marketing activity has not been particularly fruitful from either attracting valuable customers or a volume base
-
+While this is one small application of predicted customer lifetime value, it hopefully highlights how this type of analysis can be useful in understanding a business' existing customer base.
 
 Click [here](https://github.com/jamescmlai/github_portfolio/blob/master/customer_lifetime_value/customer_lifetime_value.ipynb) to see this notebook.
 
